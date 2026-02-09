@@ -66,39 +66,39 @@ function App() {
         <div className="flexbox">
           <div className="flex">
             <div className="main_img">
-              <img src="public/imgs/b1.jpg.png" alt="" />
+              <img src="imgs/b1.jpg.png" alt="" />
             </div>
             <p>Audi</p>
           </div>
           <div className="flex">
             <div className="main_img">
-              <img src="public/imgs/b2.jpg.png" alt="" />
+              <img src="imgs/b2.jpg.png" alt="" />
             </div>
             <p>BMW</p>
           </div>
           <div className="flex">
             <div className="main_img">
-              <img src="public/imgs/b3.jpg.png" alt="" />
+              <img src="imgs/b3.jpg.png" alt="" />
             </div>
             <p>Ford</p>
           </div>
           <div className="flex">
             <div className="main_img">
-              <img src="public/imgs/b4.jpg.png" alt="" />
+              <img src="imgs/b4.jpg.png" alt="" />
             </div>
             <p>Mercedes Benz</p>
           </div>
 
           <div className="flex">
             <div className="main_img">
-              <img src="public/imgs/b5.jpg.png" alt="" />
+              <img src="imgs/b5.jpg.png" alt="" />
             </div>
             <p>Peugeot</p>
           </div>
 
           <div className="flex">
             <div className="main_img">
-              <img src="public/imgs/Link(1).png" alt="" />
+              <img src="imgs/Link(1).png" alt="" />
             </div>
           </div>
         </div>
@@ -115,16 +115,16 @@ function App() {
           <div className="box">
             <div className="box1">
               <div className="img">
-                <img src="public/imgs/Container.png" alt="" />
+                <img src="imgs/Container.png" alt="" />
               </div>
               <p className="shelby">Ford Transit – 2021</p>
               <p className="shelby">
                 4.0 D5 PowerPulse Momentum 5dr AW… Geartronic Estate
               </p>
               <div className="dissel">
-                <img src="public/imgs/Vector(4).png" alt="" />
-                <img src="public/imgs/Icon(1).svg" alt="" />
-                <img src="public/imgs/Icon(1).png" alt="" />
+                <img src="imgs/Vector(4).png" alt="" />
+                <img src="imgs/Icon(1).svg" alt="" />
+                <img src="imgs/Icon(1).png" alt="" />
               </div>
               <div className="dissel1">
                 <p>2500 Miles</p>
@@ -138,16 +138,16 @@ function App() {
             </div>
             <div className="box1">
               <div className="img">
-                <img src="public/imgs/Container(1).png" alt="" />
+                <img src="imgs/Container(1).png" alt="" />
               </div>
               <p className="shelby">Ford Transit – 2021</p>
               <p className="shelby">
                 4.0 D5 PowerPulse Momentum 5dr AW… Geartronic Estate
               </p>
               <div className="dissel">
-                <img src="public/imgs/Vector(4).png" alt="" />
-                <img src="public/imgs/Icon(1).svg" alt="" />
-                <img src="public/imgs/Icon(1).png" alt="" />
+                <img src="imgs/Vector(4).png" alt="" />
+                <img src="imgs/Icon(1).svg" alt="" />
+                <img src="imgs/Icon(1).png" alt="" />
               </div>
               <div className="dissel1">
                 <p>50 Miles</p>
@@ -162,16 +162,16 @@ function App() {
 
             <div className="box1">
               <div className="img">
-                <img src="public/imgs/Container(2).png" alt="" />
+                <img src="imgs/Container(2).png" alt="" />
               </div>
               <p className="shelby">Ford Transit – 2021</p>
               <p className="shelby">
                 4.0 D5 PowerPulse Momentum 5dr AW… Geartronic Estate
               </p>
               <div className="dissel">
-                <img src="public/imgs/Vector(4).png" alt="" />
-                <img src="public/imgs/Icon(1).svg" alt="" />
-                <img src="public/imgs/Icon(1).png" alt="" />
+                <img src="imgs/Vector(4).png" alt="" />
+                <img src="imgs/Icon(1).svg" alt="" />
+                <img src="imgs/Icon(1).png" alt="" />
               </div>
               <div className="dissel1">
                 <p>100 Miles</p>
@@ -186,16 +186,16 @@ function App() {
 
             <div className="box1">
               <div className="img">
-                <img src="public/imgs/Container(3).png" alt="" />
+                <img src="imgs/Container(3).png" alt="" />
               </div>
               <p className="shelby">Ford Transit – 2021</p>
               <p className="shelby">
                 4.0 D5 PowerPulse Momentum 5dr AW… Geartronic Estate
               </p>
               <div className="dissel">
-                <img src="public/imgs/Vector(4).png" alt="" />
-                <img src="public/imgs/Icon(1).svg" alt="" />
-                <img src="public/imgs/Icon(1).png" alt="" />
+                <img src="imgs/Vector(4).png" alt="" />
+                <img src="imgs/Icon(1).svg" alt="" />
+                <img src="imgs/Icon(1).png" alt="" />
               </div>
               <div className="dissel1">
                 <p>15000 Miles</p>
@@ -213,7 +213,7 @@ function App() {
       <div className="page3">
         <div className="black">
           <div className="black_car">
-            <img src="public/imgs/Background(1).png" alt="" />
+            <img src="imgs/Background(1).png" alt="" />
           </div>
           <div className="right_side">
             <div className="maininfo">
@@ -255,7 +255,7 @@ function App() {
           <div className="cover">
             <div className="cover1">
               <div className="vector">
-                <img src="public/imgs/f1.svg.png" alt="" />
+                <img src="imgs/f1.svg.png" alt="" />
               </div>
               <h3>Special Financing Offers</h3>
               <p>
@@ -266,7 +266,7 @@ function App() {
 
             <div className="cover1">
               <div className="vector">
-                <img src="public/imgs/f2.svg.png" alt="" />
+                <img src="imgs/f2.svg.png" alt="" />
               </div>
               <h3>Trusted Car Dealership</h3>
               <p>
@@ -277,7 +277,7 @@ function App() {
 
             <div className="cover1">
               <div className="vector">
-                <img src="public/imgs/f3.svg.png" alt="" />
+                <img src="imgs/f3.svg.png" alt="" />
               </div>
               <h3>Transparent Pricing</h3>
               <p>
@@ -288,7 +288,7 @@ function App() {
 
             <div className="cover1">
               <div className="vector">
-                <img src="public/imgs/f4.svg.png" alt="" />
+                <img src="imgs/f4.svg.png" alt="" />
               </div>
               <h3>Expert Car Service</h3>
               <p>
@@ -313,7 +313,7 @@ function App() {
         <div className="deepinfo">
           <div className="deep">
             <div className="audi">
-              <img src="public/imgs/Container(4).png" alt="" />
+              <img src="imgs/Container(4).png" alt="" />
             </div>
             <div className="audiinfo">
               <h3>Audi A5 – 2023</h3>
@@ -326,7 +326,7 @@ function App() {
           </div>
           <div className="deep">
             <div className="audi">
-              <img src="public/imgs/car20-640x550.jpg.png" alt="" />
+              <img src="imgs/car20-640x550.jpg.png" alt="" />
             </div>
             <div className="audiinfo">
               <h3>Audi A5 – 2023</h3>
@@ -402,7 +402,7 @@ function App() {
         </div>
         <div className="man">
           <div className="owner">
-            <img src="public/imgs/Container(5).png" alt="" />
+            <img src="imgs/Container(5).png" alt="" />
           </div>
           <div className="own">
             <div className="span">
@@ -440,7 +440,7 @@ function App() {
         <div className="column">
           <div className="bmw">
             <div className="bmwimg">
-              <img src="public/imgs/Container(6).png" alt="" />
+              <img src="imgs/Container(6).png" alt="" />
             </div>
             <div className="admin">
               <p>admin</p>
@@ -450,7 +450,7 @@ function App() {
           </div>
           <div className="bmw">
             <div className="bmwimg">
-              <img src="public/imgs/Container(7).png" alt="" />
+              <img src="imgs/Container(7).png" alt="" />
             </div>
             <div className="admin">
               <p>admin</p>
@@ -460,7 +460,7 @@ function App() {
           </div>
           <div className="bmw">
             <div className="bmwimg">
-              <img src="public/imgs/Figure → Link.png" alt="" />
+              <img src="imgs/Figure → Link.png" alt="" />
             </div>
             <div className="admin">
               <p>admin</p>
@@ -478,7 +478,7 @@ function App() {
             </p>
             <div className="left">
               <button>Get Started</button>
-              <img src="public/imgs/electric-car.svg fill.png" alt="" />
+              <img src="imgs/electric-car.svg fill.png" alt="" />
             </div>
           </div>
           <div className="logos">
@@ -489,7 +489,7 @@ function App() {
             </p>
             <div className="left">
               <button className="btn">Get Started</button>
-              <img src="public/imgs/electric-car2.svg fill.png" alt="" />
+              <img src="imgs/electric-car2.svg fill.png" alt="" />
             </div>
           </div>
         </div>
@@ -504,7 +504,7 @@ function App() {
                 placeholder="Your email address"
                 className="email-input"
               />{" "}
-              {/* <--- Мана шу ерда ёпиш керак */}
+              {}
               <button type="submit" className="signup-btn">
                 Sign Up
               </button>
